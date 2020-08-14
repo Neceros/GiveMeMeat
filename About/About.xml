@@ -4,6 +4,7 @@
 		<author>Neceros</author>
 		<supportedVersions>
       <li>1.1</li>
+      <li>1.2</li>
     </supportedVersions>
     <packageId>neceros.givememeat</packageId>
 		<description>Hate how little meat you get from hunting beasts? This mod lets you change how much meat you get from killing pawns. Works on humans, too.
